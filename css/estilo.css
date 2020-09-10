@@ -1,0 +1,32 @@
+table ,th,td {
+
+    border: 2pt solid black;
+    border-collapse: collapse;
+
+}
+
+th, td{
+    padding:10px; /*Propiedad padding - Separacion que tiene el contenido de la celda de cada tabla*/
+
+}
+
+th {
+
+     text-align: center;
+     color:red
+}
+
+table#Tabla_actividades{
+        background-color:mistyrose;
+        
+}
+
+body{
+
+    background-color:blanchedalmond;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
