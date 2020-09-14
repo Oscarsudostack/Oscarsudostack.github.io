@@ -17,9 +17,16 @@ th {
 }
 
 table#Tabla_actividades{
-        background-color:mistyrose;
-        
+        background-color: lightseagreen;
+         
 }
+
+table#Datos{
+        background-color: indianred;
+
+
+}
+
 
 body{
 
